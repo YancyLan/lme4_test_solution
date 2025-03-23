@@ -1,0 +1,20 @@
+* installing *source* package ‘lme4’ ...
+** using staged installation
+** help
+No man pages found in package  ‘lme4’ 
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+Warning: replacing previous import ‘minqa::newuoa’ by ‘nloptr::newuoa’ when loading ‘lme4’
+Warning: replacing previous import ‘minqa::bobyqa’ by ‘nloptr::bobyqa’ when loading ‘lme4’
+Warning: replacing previous import ‘Matrix::cov2cor’ by ‘stats::cov2cor’ when loading ‘lme4’
+Warning: replacing previous import ‘Matrix::toeplitz’ by ‘stats::toeplitz’ when loading ‘lme4’
+Warning: replacing previous import ‘Matrix::update’ by ‘stats::update’ when loading ‘lme4’
+** testing if installed package can be loaded from final location
+Warning: replacing previous import ‘minqa::newuoa’ by ‘nloptr::newuoa’ when loading ‘lme4’
+Warning: replacing previous import ‘minqa::bobyqa’ by ‘nloptr::bobyqa’ when loading ‘lme4’
+Warning: replacing previous import ‘Matrix::cov2cor’ by ‘stats::cov2cor’ when loading ‘lme4’
+Warning: replacing previous import ‘Matrix::toeplitz’ by ‘stats::toeplitz’ when loading ‘lme4’
+Warning: replacing previous import ‘Matrix::update’ by ‘stats::update’ when loading ‘lme4’
+** testing if installed package keeps a record of temporary installation path
+* DONE (lme4)

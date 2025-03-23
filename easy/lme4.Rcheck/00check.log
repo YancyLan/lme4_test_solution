@@ -1,0 +1,45 @@
+* using log directory ‘/Users/Lenovo/Library/CloudStorage/OneDrive-DukeUniversity/Gcos/lme4_test/easy/lme4.Rcheck’
+* using R version 4.4.1 (2024-06-14)
+* using platform: aarch64-apple-darwin20
+* R was compiled by
+    Apple clang version 14.0.0 (clang-1400.0.29.202)
+    GNU Fortran (GCC) 12.2.0
+* running under: macOS Sonoma 14.6
+* using session charset: UTF-8
+* using option ‘--no-manual’
+* checking for file ‘lme4/DESCRIPTION’ ... OK
+* this is package ‘lme4’ version ‘1.1-37’
+* package encoding: UTF-8
+* checking package namespace information ... OK
+* checking package dependencies ... NOTE
+Vignette dependency required without any vignettes:: ‘knitr’
+* checking if this is a source package ... OK
+* checking if there is a namespace ... OK
+* checking for executable files ... OK
+* checking for hidden files and directories ... OK
+* checking for portable file names ... OK
+* checking for sufficient/correct file permissions ... OK
+* checking whether package ‘lme4’ can be installed ... WARNING
+Found the following significant warnings:
+  Warning: replacing previous import ‘minqa::newuoa’ by ‘nloptr::newuoa’ when loading ‘lme4’
+  Warning: replacing previous import ‘minqa::bobyqa’ by ‘nloptr::bobyqa’ when loading ‘lme4’
+  Warning: replacing previous import ‘Matrix::cov2cor’ by ‘stats::cov2cor’ when loading ‘lme4’
+  Warning: replacing previous import ‘Matrix::toeplitz’ by ‘stats::toeplitz’ when loading ‘lme4’
+  Warning: replacing previous import ‘Matrix::update’ by ‘stats::update’ when loading ‘lme4’
+See ‘/Users/Lenovo/Library/CloudStorage/OneDrive-DukeUniversity/Gcos/lme4_test/easy/lme4.Rcheck/00install.out’ for details.
+* checking installed package size ... OK
+* checking package directory ... OK
+* checking DESCRIPTION meta-information ... NOTE
+'LinkingTo' field is unused: package has no 'src' directory
+* checking top-level files ... OK
+* checking for left-over files ... OK
+* checking index information ... OK
+* checking package subdirectories ... OK
+* checking whether the package can be loaded ... OK
+* checking whether the package can be loaded with stated dependencies ... OK
+* checking whether the package can be unloaded cleanly ... OK
+* checking whether the namespace can be loaded with stated dependencies ... OK
+* checking whether the namespace can be unloaded cleanly ... OK
+* checking examples ... NONE
+* DONE
+Status: 1 WARNING, 2 NOTEs
